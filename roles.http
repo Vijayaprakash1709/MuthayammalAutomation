@@ -1,6 +1,0 @@
-POST http://localhost:7070/role/propose
-Content-Type: application/json
-
-{
-    "eveDept":1
-}
